@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Matheus Almeida",
+      "email": "matheusmonfoy@hotmail.com",
+      "id": 1
+    },
+    {
+      "name": "Lucas Almeida",
+      "email": "Lucas1503@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "Luciana Almeida",
+      "email": "Luciana0909@hotmail.com",
+      "id": 2
+    }
+  ]
+}
